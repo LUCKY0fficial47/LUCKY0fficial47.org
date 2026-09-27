@@ -1,0 +1,6 @@
+{
+  "name": "LUCKY tech TV Official",
+  "description": "Official hub of LUCKY tech TV: AI Tools, AI Video Tutorials, YouTube Growth Strategies, Tech News, Mobile Tricks & bilingual Hindi/English Tech Education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
